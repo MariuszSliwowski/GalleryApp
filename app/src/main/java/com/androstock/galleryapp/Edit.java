@@ -95,7 +95,6 @@ public class Edit extends AppCompatActivity implements RotationGestureDetector.O
 
         }
 
-        System.out.print("lirwa");
         return super.onTouchEvent(event);
     }
 
