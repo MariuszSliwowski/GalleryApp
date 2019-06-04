@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+    <string name="textView5">Uruchom</string>
+    <string name="textview98">TextView</string>
+    <string name="rozmiar">TextView</string>
+    <string name="dataZ">TextView</string>
+    <string name="nazwaZ">TextView</string>
+    <string name="bahaviour" />
+    <string name="bahavior">layoutBahavior</string>
+</resources>

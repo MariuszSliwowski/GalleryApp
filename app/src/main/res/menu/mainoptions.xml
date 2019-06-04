@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/chooseList"
+        android:title="Lista"></item>
+    <item
+        android:id="@+id/chooseGrid"
+        android:title="Tabela"></item>
+    <item
+        android:id="@+id/choosePath"
+        android:title="Wybierz folder"></item>
+</menu>
