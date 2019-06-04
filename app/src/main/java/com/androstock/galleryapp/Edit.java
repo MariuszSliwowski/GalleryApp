@@ -130,7 +130,7 @@ public class Edit extends AppCompatActivity implements RotationGestureDetector.O
         matrix.reset();
 
         return rotatedBitmap;
-    }
+    } 
     private void SaveIamge(Bitmap finalBitmap) {
 
         String root = Environment.getExternalStorageDirectory().toString();
